@@ -303,7 +303,7 @@ The application includes:
 
 ## 🏢 Company Profile
 
-![Company Profile](screenshots/company-profile.png)
+![Company Profile](screenshots/company-profile.png) 363
 
 ## 👔 Recruiter Dashboard
 
