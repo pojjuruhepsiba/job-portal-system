@@ -305,7 +305,7 @@ The application includes:
 
 ## 🏢 Company Profile
 
-![Company Profile](screenshots/company%20profile.png
+![Company Profile](screenshots/company-profile.png)
 
 ## 👔 Recruiter Dashboard
 
