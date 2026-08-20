@@ -271,7 +271,9 @@ The application includes:
 
 ## 🏠 Home Page
 
-![Home Page 1](screenshots/home page1.png)
+![Home Page](screenshots/home%20page1.png)
+
+
 
 ## 🏠 Home Page – Jobs View
 
@@ -303,7 +305,7 @@ The application includes:
 
 ## 🏢 Company Profile
 
-![Company Profile](screenshots/company profile.png) 363
+![Company Profile](screenshots/company%20profile.png
 
 ## 👔 Recruiter Dashboard
 
