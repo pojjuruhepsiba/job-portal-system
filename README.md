@@ -271,11 +271,15 @@ The application includes:
 
 ## 🏠 Home Page
 
-![Home Page](screenshots/homepage1.png)
+![Home Page 1](screenshots/homepage1.png)
 
 ## 🏠 Home Page – Jobs View
 
 ![Home Page 2](screenshots/homepage2.png)
+
+## 🏠 Home Page 
+
+![Home Page 3](screenshots/homepage3.png)
 
 ## 🔐 Login Page
 
