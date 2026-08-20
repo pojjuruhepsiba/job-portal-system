@@ -89,7 +89,7 @@ job-portal-system/
 │
 ├── database/
 │   └── job_portal_db.sql
-│
+|
 ├── .gitignore
 └── README.md
 ```
@@ -267,25 +267,56 @@ The application includes:
 * MySQL foreign key constraints
 * Environment variables for sensitive configuration
 
-## 📸 Screenshots
+# 📸 Project Screenshots
 
-Add project screenshots here after taking them.
+## 🏠 Home Page
 
-Recommended screenshots:
+![Home Page](screenshots/homepage1.png)
 
-1. Home Page
-2. Login Page
-3. Registration Page
-4. Jobs Page
-5. Job Details
-6. Job Seeker Dashboard
-7. My Applications
-8. Recruiter Dashboard
-9. Post Job
-10. Manage Jobs
-11. Admin Dashboard
-12. Pending Jobs
-13. Users Management
+## 🏠 Home Page – Jobs View
+
+![Home Page 2](screenshots/homepage2.png)
+
+## 🔐 Login Page
+
+![Login Page](screenshots/loginpage.png)
+
+## 📝 Registration Page
+
+![Registration Page](screenshots/registerpage.png)
+
+## 💼 Job Details
+
+![Job Details](screenshots/job-details.png)
+
+## 👨‍🎓 Job Seeker Dashboard
+
+![Job Seeker Dashboard](screenshots/jobseeker-dashboard.png)
+
+## 📋 My Applications
+
+![My Applications](screenshots/my-applications.png)
+
+## 🏢 Company Profile
+
+![Company Profile](screenshots/company-profile.png)
+
+## 👔 Recruiter Dashboard
+
+![Recruiter Dashboard](screenshots/recruiter-dashboard.png)
+
+## ➕ Post Job
+
+![Post Job](screenshots/post-job.png)
+
+## 📝 Post Job Form
+
+![Post Job Form](screenshots/post-job1.png)
+
+## 👥 Users Management
+
+![Users Management](screenshots/users.png)
+
 
 ## 🎯 Project Objective
 
